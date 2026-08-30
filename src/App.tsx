@@ -143,6 +143,7 @@ export default function App() {
 
         {/* 4. Product Categories */}
         <CategoryGrid
+          activeCategory={selectedCategory}
           onSelectCategory={(cat) => setSelectedCategory(cat)}
         />
 
