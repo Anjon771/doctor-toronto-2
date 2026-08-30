@@ -1,0 +1,6 @@
+{
+  "name": "Kasper Medical Supplies",
+  "description": "Reliable Medical & Dental Supplies at Affordable Prices. Quality products, dependable service, and bulk solutions for healthcare professionals across Canada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
